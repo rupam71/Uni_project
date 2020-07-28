@@ -1,0 +1,80 @@
+h1 {
+    margin: 0px;
+    line-height: 200px;
+}
+
+p {
+    color: black;
+}
+
+body {
+    font-family: Helvetica ;
+    margin: 0px;
+    background-color: rgb(209, 162, 98);
+}
+
+
+#banner {
+    background-color: saddlebrown;
+    height: 200px;
+    text-align: center;
+}
+.navBar {
+    text-align: center;
+}
+.navBar ul{
+    text-align: center;
+}
+.navBar li{
+        float: left;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+}
+
+.bodyText {
+    color: #5b120c;
+}
+#copyright {
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.intro {
+    color: black;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+.header {
+    color: black;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 4em;
+    text-transform: uppercase;
+    text-align: center;
+}
+.footer {
+    background-color: #74c0fc;
+    height: 100px;
+    width: 100%; 
+    margin-top: 10px;
+}
